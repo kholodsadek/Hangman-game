@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1683182447 source:c:\users\user\onedrive\documents\learning\cs empire'23\hangman game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1683184406 source:c:\users\user\onedrive\documents\learning\cs empire'23\hangman game\hangman_game.c
+	<stdio.h>
+	<string.h>
+
+1683184263 source:c:\users\user\onedrive\documents\learning\cs empire'23\hangman game\htry.c
+	<stdio.h>
+	<string.h>
+
+1683180808 source:d:\cs empire'23\projects\hangman game.zip\hangman game\hangman_game.c
+	<stdio.h>
+	<string.h>
+
